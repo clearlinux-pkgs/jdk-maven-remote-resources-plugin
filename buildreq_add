@@ -1,0 +1,25 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+jdk-jackson-core
+jdk-jackson-databind
+jdk-jackson-annotations
+jdk-snakeyaml
+jdk-base64coder
+jdk-maven-reporting-api
+jdk-jtidy
+jdk-qdox
+jdk-plexus-archiver
+jdk-doxia
+jdk-doxia-sitetools
+jdk-maven-reporting-impl
+jdk-plexus-io
+jdk-commons-compress
+jdk-snappy-java
+jdk-xmlunit
+jdk-plexus-i18n
+jdk-commons-validator
+jdk-commons-beanutils
+jdk-commons-digester
+jdk-apache-resource-bundles
+jdk-maven-shared-incremental
+jdk-plexus-compiler

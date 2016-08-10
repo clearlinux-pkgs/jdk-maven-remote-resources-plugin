@@ -1,0 +1,2 @@
+sed -i "s/TransitivityFilter/Project&/" `find -name ProcessRemoteResourcesMojo.java`
+rm -f src/main/resources/META-INF/plexus/components.xml
