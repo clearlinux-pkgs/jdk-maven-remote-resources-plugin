@@ -4,7 +4,7 @@
 #
 Name     : jdk-maven-remote-resources-plugin
 Version  : 1.4
-Release  : 5
+Release  : 6
 URL      : http://repo2.maven.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.4/maven-remote-resources-plugin-1.4-source-release.zip
 Source0  : http://repo2.maven.org/maven2/org/apache/maven/plugins/maven-remote-resources-plugin/1.4/maven-remote-resources-plugin-1.4-source-release.zip
 Summary  : No detailed summary available
